@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Eu sou o Hendrick Barros 👋
 
-<!--
-**HendrickBarros/HendrickBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hendrick GitHub stats](https://github-readme-stats.vercel.app/api?username=HendrickBarros&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Tecnologias que uso no meu dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:inline-block"></br>
+ <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+</div>
+<div style="display:inline-block"></br>
+ <img align="center" alt="Html5" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
+<div style="display:inline-block"></br>
+ <img align="center" alt="Html5" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+</div>
