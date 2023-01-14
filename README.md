@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Hendrick Barros 👋
 
-![Hendrick GitHub stats](https://github-readme-stats.vercel.app/api?username=HendrickBarros&show_icons=true&theme=tokyonight)
+
+![Hendrick GitHub stats](https://github-readme-stats.vercel.app/api?username=HendrickBarros&show_icons=true&theme=tokyonight) 
 
 ## Tecnologias que uso no meu dia
 
